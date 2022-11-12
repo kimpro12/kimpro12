@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kimpro12
+- 👀 I’m interested in some java project
+- 🌱 I’m currently learning python,java,js
+- 📫 How to reach me: buingockim_hsgs2022@hus.edu.vn
