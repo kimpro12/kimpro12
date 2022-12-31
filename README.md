@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bui Kim
-- 👀 Kinda pro in java
-- 🌱 I’m currently learning c++, java
+- 👀 Kinda pro in java, know a litte bit about Html, Css, Javascript
+- 🌱 I’m currently learning Angular, Java Spring, Hibernate
 - 📫 How to reach me: buingockim_hsgs2022@hus.edu.vn
