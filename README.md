@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bui Kim
-- 👀 Kinda pro in java and use c++ to do some problem related to competitive programming, know a litte bit about Html, Css, Javascript
-- 🌱 I’m currently learning VueJS, Java Spring, Hibernate
+- 👀 Kinda pro in java and use c++ to do some problem related to competitive programming, know a litte bit about Html, Css, Javascript, Java Spring, Mobile(Android Studio)
+- 🌱 I’m currently learning Machine learning and Deep learning
 - 📫 How to reach me: buingockim_hsgs2022@hus.edu.vn
