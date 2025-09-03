@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bui Kim
-- 👀 Kinda pro in java and use c++ to do some problem related to competitive programming, know a litte bit about Html, Css, Javascript, Java Spring, Mobile(Android Studio)
+- 👀 Kinda pro in Java and use C++ to do some problems related to competitive programming, know a little bit about HTML, CSS, JavaScript, Java Spring, Mobile(Android Studio)
 - 🌱 I’m currently learning Machine learning and Deep learning
-- 📫 How to reach me: buingockim_hsgs2022@hus.edu.vn
+- 📫 How to reach me: buingockim_hsgs2022@hus.edu.vn, 25000252@hus.edu.vn
